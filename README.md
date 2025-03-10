@@ -1,4 +1,4 @@
-# LCLM-Survey
+# A Comprehensive Survey on Long Context Language Modeling 📄
 
 <div align="center">
  <p align="center">
@@ -19,15 +19,21 @@
 
 </div>
 
-> A collection of papers and resources related to Long Context Language Modeling. 
+> This repository provides a collection of papers and resources focused on Long Context Language Modeling. For a clear taxonomy and more insights about the methodology, you can refer to our survey: [A Comprehensive Survey on Long Context Language Modeling]() with a overview shown below. 
 >
-> We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to dwzhu@pku.edu.cn or ljh411989@alibaba-inc.com or huanxuanliao@gmail.com. Thanks for your cooperation!
+> We appreciate any useful suggestions for improvement of this paper list or survey from peers. We commit to regularly updating the repository.
+> 
+> If you would like to include your paper or any modifications in this survey and repository, please feel free to raise issues or send an email to dwzhu@pku.edu.cn or ljh411989@alibaba-inc.com or huanxuanliao@gmail.com. We sincerely appreciate your collaboration!
 >
-> If you find our survey useful for your research, please cite the following paper:
+> Thanks [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) for providing valuable reference to support the expansion of this project and the development of the comprehensive scholarly survey. 
+>
+> If you find our survey useful for your research, please consider citing the following paper:
 
 ```bibtex
 
 ```
+
+<img src="assets/overview.jpg"  width="100%">
 
 ## Updates
 
@@ -36,7 +42,7 @@
 
 ## Table of Contents
 
-- [LCLM-Survey](#lclm-survey)
+- [A Comprehensive Survey on Long Context Language Modeling 📄](#a-comprehensive-survey-on-long-context-language-modeling-)
   - [Updates](#updates)
   - [Table of Contents](#table-of-contents)
   - [Paper List](#paper-list)
@@ -83,8 +89,6 @@
       - [Specific Domains](#specific-domains)
     - [Future Directions](#future-directions)
       - [Long CoT](#long-cot)
-  - [Other Awesome Lists](#other-awesome-lists)
-  - [The Team](#the-team)
   - [Acknowledgments](#acknowledgments)
   - [Contributors](#contributors)
   - [Star History](#star-history)
@@ -749,11 +753,11 @@
 
 18. [**Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?.**](https://arxiv.org/abs/2502.19361) *Yancheng He, Shilong Li, Jiaheng Liu, Weixun Wang, Xingyuan Bu, Ge Zhang, Zhongyuan Peng, Zhaoxiang Zhang, Zhicheng Zheng, Wenbo Su, Bo Zheng.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenStellarTeam/DeltaBench)](https://github.com/OpenStellarTeam/DeltaBench)
 
-## Other Awesome Lists
+<!-- ## Other Awesome Lists
 
 - **[Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)**  Collection of papers and resources on LLM-based Long Context Modeling.
 
-## The Team
+## The Team -->
 
 ## Acknowledgments
 
@@ -761,10 +765,10 @@ Please contact us if We miss your names in the list, I will add you back ASAP!
 
 ## Contributors
 
-<a href="https://github.com/LCLM-Space/LCLM-Survey/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LCLM-Space/LCLM-Survey" />
+<a href="https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling" />
 </a>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LCLM-Space/LCLM-Survey&type=Timeline)](https://github.com/LCLM-Space/LCLM-Survey//stargazers)
+[![Star History Chart](https://api.star-history.com/svg?repos=LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling&type=Timeline)](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/stargazers)
