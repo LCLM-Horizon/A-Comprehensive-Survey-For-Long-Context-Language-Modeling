@@ -10,11 +10,11 @@
 <div align="center">
 
 <!-- ![Build](https://img.shields.io/appveyor/build/gruntjs/grunt) -->
-[![LICENSE](https://img.shields.io/github/license/LCLM-Space/LCLM-Survey)](https://github.com/LCLM-Space/LCLM-Survey/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/blob/main/LICENSE)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![commit](https://img.shields.io/github/last-commit/LCLM-Space/LCLM-Survey?color=blue)](https://github.com/LCLM-Space/LCLM-Survey/commits/main)
-[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/LCLM-Space/LCLM-Survey/pulls)
-[![GitHub Repo stars](https://img.shields.io/github/stars/LCLM-Space/LCLM-Survey)](https://github.com/LCLM-Space/LCLM-Survey)
+[![commit](https://img.shields.io/github/last-commit/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling?color=blue)](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/commits/main)
+[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/pulls)
+[![GitHub Repo stars](https://img.shields.io/github/stars/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
 <!-- ![license](https://img.shields.io/bower/l/bootstrap?style=plastic) -->
 
 </div>
