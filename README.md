@@ -23,7 +23,7 @@
 >
 > We appreciate any useful suggestions for improvement of this paper list or survey from peers and commit to regularly updating the repository.
 > 
-> If you would like to include your paper or any modifications in this survey and repository, please feel free to raise issues or send an email to dwzhu@pku.edu.cn or 13121221227@163.com or liaohuanxuan2023@ia.ac.cn. We sincerely appreciate your collaboration!
+> If you would like to include your paper or any modifications in this survey and repository, please feel free to raise issues or send an email to dwzhu@pku.edu.cn or liujiaheng@nju.edu.cn or liaohuanxuan2023@ia.ac.cn. We sincerely appreciate your collaboration!
 >
 > Thanks [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) for providing valuable reference to support the expansion of this project and the development of the comprehensive scholarly survey. 
 >
