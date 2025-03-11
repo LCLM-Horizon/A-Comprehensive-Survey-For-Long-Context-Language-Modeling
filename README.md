@@ -397,6 +397,8 @@ with AI Feedback.**](https://arxiv.org/abs/2410.21252) *Jiajie Zhang, Zhongni Ho
 
 81. [**LightTransfer: Your Long-Context LLM is Secretly a Hybrid Model with Effortless Adaptation.**](https://arxiv.org/abs/2410.13846) *Xuan Zhang, Fengzhuo Zhang, Cunxiao Du, Chao Du, Tianyu Pang, Wei Gao, Min Lin*. Arxiv 2025
 
+82. [**MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression.**](https://arxiv.org/abs/2406.14909) *Tianyu Fu, Haofeng Huang, Xuefei Ning, Genghan Zhang, Boju Chen, Tianqi Wu, Hongyi Wang, Zixiao Huang, Shiyao Li, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang*. ICLR Workshop 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/MoA)](https://github.com/thu-nics/MoA) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://thu-nics.github.io/MoA_project_page/)
+
 
 #### Hybrid Architecture
 
