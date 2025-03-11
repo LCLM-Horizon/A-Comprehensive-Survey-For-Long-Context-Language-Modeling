@@ -37,7 +37,7 @@
 
 ## Updates
 
-- [2025.03.09] We release the first version of the survey on Long Context Language Modeling [[**arXiv**](assets/lclm-survey.pdf)]
+- [2025.03.11] We release the first version of the survey on Long Context Language Modeling [[**arXiv**](assets/lclm-survey.pdf)]
 
 
 ## Table of Contents
