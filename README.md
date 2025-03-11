@@ -19,7 +19,7 @@
 
 </div>
 
-> This repository provides a collection of papers and resources focused on Long Context Language Modeling. For a clear taxonomy and more insights about the methodology, you can refer to our survey: [A Comprehensive Survey on Long Context Language Modeling]() with a overview shown below. 
+> This repository provides a collection of papers and resources focused on Long Context Language Modeling. For a clear taxonomy and more insights about the methodology, you can refer to our survey: [A Comprehensive Survey on Long Context Language Modeling](lclm-survey.pdf) with a overview shown below. 
 >
 > We appreciate any useful suggestions for improvement of this paper list or survey from peers and commit to regularly updating the repository.
 > 
