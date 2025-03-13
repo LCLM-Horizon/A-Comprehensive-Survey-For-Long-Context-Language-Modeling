@@ -25,7 +25,9 @@
 > 
 > If you would like to include your paper or any modifications in this survey and repository, please feel free to raise issues or send an email to dwzhu@pku.edu.cn or liujiaheng@nju.edu.cn or liaohuanxuan2023@ia.ac.cn. We sincerely appreciate your collaboration!
 >
-> Thanks [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) for providing valuable reference to support the expansion of this project and the development of the comprehensive scholarly survey. 
+> We would like to extend our sincere gratitude to [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) for providing valuable reference to support the expansion of this project and the development of the comprehensive scholarly survey. 
+>
+> We would also like to mention [Thus Spake Long-Context Large Language Model](https://arxiv.org/abs/2502.17129) ([Github](https://github.com/OpenMOSS/Thus-Spake-Long-Context-LLM)), a concurrent survey that details the development history of long-context LLMs. They've created a [video](https://www.bilibili.com/video/BV11h9AYoEYj/) with Thus Spake Zarathustra symphony to introduce LCLM-related work.
 >
 > If you find our survey useful for your research, please consider citing the following paper:
 
