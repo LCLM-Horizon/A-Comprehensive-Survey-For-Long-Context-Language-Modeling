@@ -3,7 +3,7 @@
 <div align="center">
  <p align="center">
 
-   <a href="assets/lclm-survey.pdf">📝 Paper</a> | <a href="#Updates">📄 List</a>
+   <a href="https://arxiv.org/abs/2503.17407">📝 Paper</a> | <a href="#Updates">📄 List</a>
 
  </p>
 </div>
@@ -19,7 +19,7 @@
 
 </div>
 
-> This repository provides a collection of papers and resources focused on Long Context Language Modeling. For a clear taxonomy and more insights about the methodology, you can refer to our survey: [A Comprehensive Survey on Long Context Language Modeling](assets/lclm-survey.pdf) with a overview shown below. 
+> This repository provides a collection of papers and resources focused on Long Context Language Modeling. For a clear taxonomy and more insights about the methodology, you can refer to our survey: [A Comprehensive Survey on Long Context Language Modeling](https://arxiv.org/abs/2503.17407) with a overview shown below. 
 >
 > We appreciate any useful suggestions for improvement of this paper list or survey from peers and commit to regularly updating the repository.
 > 
@@ -32,14 +32,24 @@
 > If you find our survey useful for your research, please consider citing the following paper:
 
 ```bibtex
-
+@misc{liu2025comprehensivesurveylongcontext,
+      title={A Comprehensive Survey on Long Context Language Modeling}, 
+      author={Jiaheng Liu and Dawei Zhu and Zhiqi Bai and Yancheng He and Huanxuan Liao and Haoran Que and Zekun Wang and Chenchen Zhang and Ge Zhang and Jiebin Zhang and Yuanxing Zhang and Zhuo Chen and Hangyu Guo and Shilong Li and Ziqiang Liu and Yong Shan and Yifan Song and Jiayi Tian and Wenhao Wu and Zhejian Zhou and Ruijie Zhu and Junlan Feng and Yang Gao and Shizhu He and Zhoujun Li and Tianyu Liu and Fanyu Meng and Wenbo Su and Yingshui Tan and Zili Wang and Jian Yang and Wei Ye and Bo Zheng and Wangchunshu Zhou and Wenhao Huang and Sujian Li and Zhaoxiang Zhang},
+      year={2025},
+      eprint={2503.17407},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.17407}, 
+}
 ```
 
 <img src="assets/overview.png"  width="100%">
 
 ## Updates
 
-- [2025.03.11] We release the first version of the survey on Long Context Language Modeling [[**arXiv**](assets/lclm-survey.pdf)]
+- [2025.03.25] Our [paper](https://arxiv.org/abs/2503.17407) is finally out on arxiv.
+- [2025.03.13] We have a good communication with the authors of [concurrent work](https://github.com/OpenMOSS/Thus-Spake-Long-Context-LLM), and will promote work of both parties in the future.
+- [2025.03.11] We release the first version of the survey on Long Context Language Modeling [[lclm-survey.pdf](assets/lclm-survey.pdf)] and opensource our repo.
 
 
 ## Table of Contents
