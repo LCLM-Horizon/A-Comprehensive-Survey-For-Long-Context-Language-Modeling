@@ -32,14 +32,11 @@
 > If you find our survey useful for your research, please consider citing the following paper:
 
 ```bibtex
-@misc{liu2025comprehensivesurveylongcontext,
-      title={A Comprehensive Survey on Long Context Language Modeling}, 
-      author={Jiaheng Liu and Dawei Zhu and Zhiqi Bai and Yancheng He and Huanxuan Liao and Haoran Que and Zekun Wang and Chenchen Zhang and Ge Zhang and Jiebin Zhang and Yuanxing Zhang and Zhuo Chen and Hangyu Guo and Shilong Li and Ziqiang Liu and Yong Shan and Yifan Song and Jiayi Tian and Wenhao Wu and Zhejian Zhou and Ruijie Zhu and Junlan Feng and Yang Gao and Shizhu He and Zhoujun Li and Tianyu Liu and Fanyu Meng and Wenbo Su and Yingshui Tan and Zili Wang and Jian Yang and Wei Ye and Bo Zheng and Wangchunshu Zhou and Wenhao Huang and Sujian Li and Zhaoxiang Zhang},
-      year={2025},
-      eprint={2503.17407},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.17407}, 
+@article{liu2025comprehensive,
+  title={A Comprehensive Survey on Long Context Language Modeling},
+  author={Liu, Jiaheng and Zhu, Dawei and Bai, Zhiqi and He, Yancheng and Liao, Huanxuan and Que, Haoran and Wang, Zekun and Zhang, Chenchen and Zhang, Ge and Zhang, Jiebin and others},
+  journal={arXiv preprint arXiv:2503.17407},
+  year={2025}
 }
 ```
 
