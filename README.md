@@ -250,6 +250,7 @@ with AI Feedback.**](https://arxiv.org/abs/2410.21252) *Jiajie Zhang, Zhongni Ho
 
 30. [**Training-free long-context scaling of large language models.**](https://arxiv.org/abs/2402.1746)  *Chenxin An and Fei Huang and Jun Zhang and Shansan Gong and Xipeng Qiu and Chang Zhou and Lingpeng Kong*. Arxiv 2024
 
+31. [**PSC: Extending Context Window of Large Language Models via Phase Shift Calibration.**](https://aclanthology.org/2024.emnlp-main.341.pdf) *Wenqiao Zhu and Chao Xu and Lulu Wang and Jun Wu*. EMNLP 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/WNQzhu/PSC)](https://github.com/WNQzhu/PSC)
 
 #### Architecture
 
