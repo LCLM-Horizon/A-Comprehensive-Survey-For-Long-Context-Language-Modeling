@@ -750,7 +750,7 @@ Checkpoints.**](https://doi.org/10.18653/v1/2023.emnlp-main.298) *Joshua Ainslie
 
 10. [**You only cache once: Decoder-decoder architectures for language models.**](https://arxiv.org/abs/2405.05254)  *Yutao Sun and Li Dong and Yi Zhu and Shaohan Huang and Wenhui Wang and Shuming Ma and Quanlu Zhang and Jianyong Wang and Furu Wei*. Arxiv 2024
 
-11. [**Artificial Hippocampus Networks for Efficient Long-Context Modeling.**](https://arxiv.org/abs/2406.07138) *Yunhao Fang, Weihao Yu, Shu Zhong, Qinghao Ye, Xuehan Xiong, Lai Wei.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ByteDance-Seed/AHN)](https://github.com/ByteDance-Seed/AHN)
+11. [**Artificial Hippocampus Networks for Efficient Long-Context Modeling.**](https://arxiv.org/abs/2510.07318) *Yunhao Fang, Weihao Yu, Shu Zhong, Qinghao Ye, Xuehan Xiong, Lai Wei.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ByteDance-Seed/AHN)](https://github.com/ByteDance-Seed/AHN)
 
 ### Workflow Design
 
