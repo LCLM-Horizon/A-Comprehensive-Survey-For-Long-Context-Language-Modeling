@@ -192,6 +192,8 @@ with AI Feedback.**](https://arxiv.org/abs/2410.21252) *Jiajie Zhang, Zhongni Ho
 1. [**End-to-End Test-Time Training for Long Context.**](https://arxiv.org/abs/2512.23675) *Arnuv Tandon, Karan Dalal, Xinhao Li, Daniel Koceja, Marcel Rød, Sam Buchanan, Xiaolong Wang, Jure Leskovec, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin, Jed McCaleb, Yejin Choi, Yu Sun.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/test-time-training/e2e)](https://github.com/test-time-training/e2e)
 1. [**QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management.**](https://arxiv.org/abs/2512.12967) *Weizhou Shen, Ziyi Yang, Chenliang Li, Zhiyuan Lu, Miao Peng, Huashan Sun, Yingcheng Shi, Shengyi Liao, Shaopeng Lai, Bo Zhang, Dayiheng Liu, Fei Huang, Jingren Zhou, Ming Yan.* Arxiv 2025.
 
+1. [**ACC: Compiling Agent Trajectories for Long-Context Training.**](https://arxiv.org/abs/2605.21850) *Qisheng Su, Zhen Fang, Shiting Huang, Yu Zeng, Yiming Zhao, Kou Shi, Ziao Zhang, Lin Chen, Zehui Chen, Lijun Wu, Feng Zhao.* Arxiv 2026.
+
 ### Model
 
 #### Position Embeddings
@@ -337,6 +339,8 @@ with AI Feedback.**](https://arxiv.org/abs/2410.21252) *Jiajie Zhang, Zhongni Ho
 70. [**Variation-aware Vision Token Dropping for Faster Large Vision-Language Models**](https://arxiv.org/abs/2509.01552) _Junjie Chen, Xuyang Liu, Zichen Wen, Yiyu Wang, Siteng Huang, Honggang Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xuyang-liu16/V2Drop)](https://github.com/xuyang-liu16/V2Drop)
 
 71. [**D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**](https://arxiv.org/abs/2510.08818) _Yiyang Huang, Yizhou Wang, Yun Fu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/hukcc/D-CoDe)](https://github.com/hukcc/D-CoDe)
+
+1. [**Periodic RoPE for Infinite Context LLMs.**](https://arxiv.org/abs/2605.27980) *Simin Huo.* Arxiv 2026.
 
 #### Architecture
 
@@ -792,6 +796,14 @@ Checkpoints.**](https://doi.org/10.18653/v1/2023.emnlp-main.298) *Joshua Ainslie
 1. [**MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head.**](https://arxiv.org/abs/2601.07832) *Kewei Zhang, Ye Huang, Yufan Deng, Jincheng Yu, Junsong Chen, Huan Ling, Enze Xie, Daquan Zhou.* Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/DAGroup-PKU/MHLA)](https://github.com/DAGroup-PKU/MHLA)
 1. [**Olmo 3.**](https://arxiv.org/abs/2512.13961) *Team Olmo, Allyson Ettinger, Amanda Bertsch, Bailey Kuehl, David Graham, David Heineman, Dirk Groeneveld, Faeze Brahman, Finbarr Timbers, Hamish Ivison, Jacob Morrison, Jake Poznanski, Kyle Lo, Luca Soldaini, Matt Jordan, Mayee Chen, Michael Noukhovitch, Nathan Lambert, Pete Walsh, Pradeep Dasigi, Robert Berry, Saumya Malik, Saurabh Shah, Scott Geng, Shane Arora, Shashank Gupta, Taira Anderson, Teng Xiao, Tyler Murray, Tyler Romero, Victoria Graf, Akari Asai, Akshita Bhagia, Alexander Wettig, Alisa Liu, Aman Rangapur, Chloe Anastasiades, Costa Huang, Dustin Schwenk, Harsh Trivedi, Ian Magnusson, Jaron Lochner, Jiacheng Liu, Lester James V. Miranda, Maarten Sap, Malia Morgan, Michael Schmitz, Michal Guerquin, Michael Wilson, Regan Huff, Ronan Le Bras, Rui Xin, Rulin Shao, Sam Skjonsberg, Shannon Zejiang Shen, Shuyue Stella Li, Tucker Wilde, Valentina Pyatkin, Will Merrill, Yapei Chang, Yuling Gu, Zhiyuan Zeng, Ashish Sabharwal, Luke Zettlemoyer, Pang Wei Koh, Ali Farhadi, Noah A. Smith, Hannaneh Hajishirzi.* Arxiv 2025.
 
+1. [**UNIQUE: Universal Top-k Sparse Attention for Training-free Inference and Sparsity-aware Training.**](https://arxiv.org/abs/2605.27740) *Keqi Deng, Shaoshi Ling, Ruchao Fan, Jinyu Li.* Arxiv 2026.
+
+1. [**Tensor Memory: Fixed-Size Recurrent State for Long-Horizon Transformers.**](https://arxiv.org/abs/2605.27686) *Kabir Swain, Sijie Han, Daniel Karl I. Weidele, Mauro Martino, Antonio Torralba.* Arxiv 2026.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kswain98/tensor-memory)](https://github.com/kswain98/tensor-memory)
+
+1. [**Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention.**](https://arxiv.org/abs/2605.22791) *Ali Hatamizadeh, Yejin Choi, Jan Kautz.* Arxiv 2026.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/GatedDeltaNet-2)](https://github.com/NVlabs/GatedDeltaNet-2)
+
 #### Hybrid Architecture
 
 1. [**C4AI Command R7B: A 7 Billion Parameter Multilingual Model.**](https://huggingface.co/CohereForAI/c4ai-command-r7b-12-2024) *Cohere, Cohere For AI*. Arxiv 2024
@@ -855,6 +867,9 @@ Checkpoints.**](https://doi.org/10.18653/v1/2023.emnlp-main.298) *Joshua Ainslie
 15. [**Visual Text Compression as Measure Transport.**](https://arxiv.org/abs/2605.06708) _Lv Tang, Tianyi Zheng, Yang Liu, Bo Li, Xingyu Li._ Arxiv 2026.
 
 1. [**AgentOCR: Reimagining Agent History via Optical Self-Compression.**](https://arxiv.org/abs/2601.04786) *Lang Feng, Fuchao Yang, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An.* Arxiv 2026.
+
+1. [**ZipRL: Adaptive Multi-Turn Context Compression with Hindsight Response Replay.**](https://arxiv.org/abs/2605.28069) *Zhexin Hu, Li Wang, Xiaohan Wang, Jiajun Chai, Xiaojun Guo, Wei Lin, Guojun Yin.* Arxiv 2026.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/huzhexin/ZipRL)](https://github.com/huzhexin/ZipRL)
 
 ##### Soft Prompt Compression
 
@@ -1393,6 +1408,8 @@ Text Embeddings Through Self-Knowledge Distillation.**](https://doi.org/10.48550
 
 ##### Communication Optimization -->
 
+1. [**Heterogeneous Parallelism for Multimodal Large Language Model Training.**](https://arxiv.org/abs/2605.27678) *Yashaswi Karnati, Kamran Jafari, Akash Mehra, Li Ding, Pranav Prashant Thombre, Ali Roshan Ghias, Shifang Xu, Parth Mannan, Yu Yao, Hao Wu, Eric Harper, Ashwath Aithal, Nima Tajbakhsh.* Arxiv 2026.
+
 #### Inference
 
 1. [**Speed: Speculative pipelined execution for efficient decoding.**](https://arxiv.org/abs/2310.12072) *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Hasan Genc, Kurt Keutzer, Amir Gholami, Sophia Shao*. Arxiv 2023
@@ -1456,6 +1473,12 @@ Text Embeddings Through Self-Knowledge Distillation.**](https://doi.org/10.48550
 1. [**ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding.**](https://arxiv.org/abs/2603.19610) *Quan Kong, Yuhao Shen, Yicheng Ji, Huan Li, Cong Wang.* Arxiv 2026.
 1. [**Self-Distillation for Multi-Token Prediction.**](https://arxiv.org/abs/2603.23911) *Guoliang Zhao, Ruobing Xie, An Wang, Shuaipeng Li, Huaibing Xie, Xingwu Sun.* Arxiv 2026.
 1. [**CALVO: Cache-Aware LLM Serving for Network-Intensive Inference.**](https://arxiv.org/abs/2603.21257) *Weiye Wang, Chen Chen, Junxue Zhang, Zhusheng Wang, Hui Yuan, Zixuan Guan, Xiaolong Zheng, Qizhen Weng, Yin Chen, Minyi Guo.* Arxiv 2026.
+
+1. [**Hurwitz Quaternion Multiplicative Quantization for KV Cache Compression.**](https://arxiv.org/abs/2605.27646) *Kabir Swain, Sijie Han, Daniel Karl I. Weidele, Mauro Martino, David Cox, Antonio Torralba.* Arxiv 2026.
+
+1. [**Inference Time Context Sparsity: Illusion or Opportunity?**](https://arxiv.org/abs/2605.24168) *Sahil Joshi, Prithvi Dixit, Agniva Chowdhury, Anshumali Shrivastava, Joseph E. Gonzalez, Ion Stoica, Kumar Krishna Agrawal, Aditya Desai.* Arxiv 2026.
+
+1. [**Parallel Context Compaction for Long-Horizon LLM Agent Serving.**](https://arxiv.org/abs/2605.23296) *Musa Cim, Burak Topcu, Chita Das, Mahmut Taylan Kandemir.* Arxiv 2026.
 
 ### Interpretability
 
@@ -1891,6 +1914,10 @@ Engineering.**](https://doi.org/10.48550/arXiv.2410.07095) *Jun Shern Chan, Neil
 1. [**StreamingClaw Technical Report.**](https://arxiv.org/abs/2603.22120) *Jiawei Chen, Zhe Chen, Chaoqun Du, Maokui He, Wei He, Hengtao Li, Qizhen Li, Zide Liu, Hao Ma, Xuhao Pan, Chang Ren, Xudong Rao, Xintian Shen, Chenfeng Wang, Tao Wei, Chengjun Yu, Pengfei Yu, Shengyu Yao, Chunpeng Zhou, Kun Zhan, Lihao Zheng, Pan Zhou, Xuhan Zhu, Yufei Zheng.* Arxiv 2026.
 1. [**T5Gemma 2: Seeing, Reading, and Understanding Longer.**](https://arxiv.org/abs/2512.14856) *Biao Zhang, Paul Suganthan, Gaël Liu, Ilya Philippov, Sahil Dua, Ben Hora, Kat Black, Gus Martins, Omar Sanseviero, Shreya Pathak, Cassidy Hardin, Francesco Visin, Jiageng Zhang, Kathleen Kenealy, Qin Yin, Xiaodan Song, Olivier Lacombe, Armand Joulin, Tris Warkentin, Adam Roberts.* Arxiv 2025.
 1. [**ToolMerge: Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval.**](https://arxiv.org/abs/2605.23826) *Michal Shlapentokh-Rothman, Prachi Garg, Yu-Xiong Wang, Derek Hoiem.* Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/michalsr/ToolMerge)](https://github.com/michalsr/ToolMerge)
+
+1. [**CIVIC: End-to-End Sequence Compactness for Efficient Vision-Language Models.**](https://arxiv.org/abs/2605.28115) *Fengze Yang, Bo Yu, Xuewen Luo, Cathy Liu, Chenxi Liu.* Arxiv 2026.
+
+1. [**Self-Prophetic Decoding to Unlock Visual Search in LVLMs.**](https://arxiv.org/abs/2605.28741) *Zhendong He, Qiyuan Dai, Guanbin Li, Liang Lin, Sibei Yang.* ICML 2026.
 
 #### Specific Domains
 
