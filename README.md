@@ -199,6 +199,8 @@ with AI Feedback.**](https://arxiv.org/abs/2410.21252) *Jiajie Zhang, Zhongni Ho
 
 1. [**Learning What to Remember: Test-Time Training via Context Distillation.**](https://arxiv.org/abs/2608.01672) *Zixuan Wang, Xingyu Dang, Rui-Jie Zhu, Zixin Wen, Hengyu Fu, Wenhao Chai, Jason D. Lee.* Arxiv 2026.
 
+1. [**Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization.**](https://arxiv.org/abs/2508.13993) *Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun.* ACL 2026 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/NEUIR/LongMab-PO)](https://github.com/NEUIR/LongMab-PO)
+
 ### Model
 
 #### Position Embeddings
